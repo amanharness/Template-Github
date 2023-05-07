@@ -1,1 +1,16 @@
-
+  template:
+  name: CDCNGAuto_FilterTemplatesTestMQ
+  identifier: CDCNGAuto_FilterTemplatesTestMQ
+  versionLabel: v1
+  type: Step
+  description: test2
+  tags: {
+    }
+  spec:
+    timeout: 10s
+    type: AsgCanaryDeploy
+    spec:
+      instanceSelection:
+        type: Count
+        spec:
+          count: 1
