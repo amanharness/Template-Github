@@ -1,7 +1,7 @@
 template:
-  name: test
-  identifier: test
-  versionLabel: v1
+  name: Account_Test
+  identifier: Account_Test
+  versionLabel: version1
   type: Step
   description: test2
   tags: {
