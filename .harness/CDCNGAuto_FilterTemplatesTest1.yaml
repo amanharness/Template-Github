@@ -1,6 +1,6 @@
 template:
-  name: CDCNGAuto_FilterTemplatesTest
-  identifier: CDCNGAuto_FilterTemplatesTest
+  name: CDCNGAuto_FilterTemplatesTest1
+  identifier: CDCNGAuto_FilterTemplatesTest1
   versionLabel: v1
   type: Step
   tags: {
