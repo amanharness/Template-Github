@@ -1,6 +1,6 @@
-  template:
-  name: test
-  identifier: test
+template:
+  name: CDCNGAuto_FilterTemplatesTestMQ
+  identifier: CDCNGAuto_FilterTemplatesTestMQ
   versionLabel: v1
   type: Step
   description: test2
