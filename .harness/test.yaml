@@ -1,6 +1,6 @@
 template:
-  name: Account_Test
-  identifier: Account_Test
+  name: CDCNGAuto_FilterTemplatesTest
+  identifier: CDCNGAuto_FilterTemplatesTest
   versionLabel: v1
   type: Step
   description: test2
