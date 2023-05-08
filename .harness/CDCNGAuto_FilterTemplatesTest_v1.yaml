@@ -1,1 +1,15 @@
-
+template:
+  name: CDCNGAuto_FilterTemplatesTest
+  identifier: CDCNGAuto_FilterTemplatesTest
+  versionLabel: v1
+  type: Step
+  tags: {
+    }
+  spec:
+    timeout: 10s
+    type: AsgCanaryDeploy
+    spec:
+      instanceSelection:
+        type: Count
+        spec:
+          count: 1
