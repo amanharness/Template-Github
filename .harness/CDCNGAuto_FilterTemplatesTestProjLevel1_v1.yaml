@@ -1,6 +1,6 @@
 template:
-  name: CDCNGAuto_FilterTemplatesTestProjLevel
-  identifier: CDCNGAuto_FilterTemplatesTestProjLevel
+  name: CDCNGAuto_FilterTemplatesTestProjLevel1
+  identifier: CDCNGAuto_FilterTemplatesTestProjLevel1
   versionLabel: v1
   type: Step
   projectIdentifier: CDCNGAuto_FilterTemplatesTest
