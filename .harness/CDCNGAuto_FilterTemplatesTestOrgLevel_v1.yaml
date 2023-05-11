@@ -1,6 +1,6 @@
 template:
   name: CDCNGAuto_FilterTemplatesTestOrgLevel
-  identifier: CCDCNGAuto_FilterTemplatesTestOrgLevel
+  identifier: CDCNGAuto_FilterTemplatesTestOrgLevel
   versionLabel: v1
   type: Step
   orgIdentifier: Ng_Pipelines_K8s_Organisations
